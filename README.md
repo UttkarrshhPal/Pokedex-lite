@@ -6,7 +6,6 @@ A modern, responsive Pokédex application built with Next.js, TypeScript, and Ta
 ![Pokédex Lite Screenshot 1](<Screenshot from 2024-12-28 14-55-31.png>)
 ![Pokédex Lite Screenshot 2](<Screenshot from 2024-12-28 14-55-38.png>)
 
-
 ## 🌟 Features
 
 - **Pokémon Listing**: Browse through all Pokémon with pagination support
